@@ -1,4 +1,4 @@
-package org.totalbeginner.tutorial;
+package org.totalbeginner.tutorial; //Tutorial for using JUnit under Eclipse
 
 import java.util.ArrayList;
 
